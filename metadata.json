@@ -1,0 +1,7 @@
+{
+  "name": "GeoReferral Infinity Map",
+  "description": "A sophisticated personal record system for healthcare providers to track patient origins (communes) and referral networks using an interactive topological graph and geo-tracking features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
